@@ -21,7 +21,7 @@ async function main() {
 
     const data = {
       title,
-      text: `<!--markdown-->${content}`,
+      text: handleContent(content),
       status: 'publish',
       authorId: 1,
       type: 'post',
@@ -50,6 +50,15 @@ async function main() {
     console.log(err);
     console.log(res);
   });
+}
+
+function handleContent(content) {
+  // 在第二个段落后添加 <!--more-->
+  const paragraphs = content.split('\n\n');
+  paragraphs.splice(2, 0, '<!--more-->');
+  content = paragraphs.join('\n\n');
+
+  return `<!--markdown-->${content}`;
 }
 
 async function genContent(title) {
