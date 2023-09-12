@@ -42,14 +42,18 @@ async function main() {
 
     // 和默认分类关联
     await insert(connection, '10w_relationships', { cid, mid: 1 });
+
+    console.log('文章生成成功：', title)
   } catch (error) {
     console.log(error);
+  } finally {
+	  const err = await connection.end();
+	  if (err) {
+		  console.error('关闭连接时出错：', err.message);
+	  } else {
+		  console.log('连接已成功关闭。');
+	  }
   }
-
-  connection.end((err, res) => {
-    console.log(err);
-    console.log(res);
-  });
 }
 
 function handleContent(content) {
