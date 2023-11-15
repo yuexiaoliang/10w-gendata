@@ -24,3 +24,5 @@ release
 *.sw?
 
 .env
+
+markdown

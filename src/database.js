@@ -1,22 +1,41 @@
 // 导入模块
-const mysql = require('mysql2/promise');
+import mysql from 'mysql2/promise';
+import parseArgs from 'minimist'
 
-function createConnection() {
+const argv = parseArgs(process.argv.slice(2))
+const project = argv.project
+
+const dbDatabases = {
+  en: process.env.GENDATA_DB_NAME_EN,
+  default: process.env.GENDATA_DB_NAME
+}
+
+const dbUsers = {
+  en: process.env.GENDATA_DB_USER_EN,
+  default: process.env.GENDATA_DB_USER
+}
+
+const dbPasswords = {
+  en: process.env.GENDATA_DB_PASSWORD_EN,
+  default: process.env.GENDATA_DB_PASSWORD
+}
+
+export function createConnection() {
   return mysql.createConnection({
     host: process.env.GENDATA_DB_HOST,
-    user: process.env.GENDATA_DB_USER,
-    database: process.env.GENDATA_DB_NAME,
-    password: process.env.GENDATA_DB_PASSWORD
+    user: dbUsers[project] || dbUsers['default'],
+    database: dbDatabases[project] || dbDatabases['default'],
+    password: dbPasswords[project] || dbPasswords['default'],
   });
 }
 
 // 添加数据
-async function insert(connection, tableName, data) {
+export async function insert(connection, tableName, data) {
   return (await connection.query('INSERT INTO ?? SET ?', [tableName, data]))[0];
 }
 
 // 检查并更新 meta 表
-async function checkAndUpdateMeta(connection, name) {
+export async function checkAndUpdateMeta(connection, name) {
   const tableName = '10w_metas';
 
   const results = (await connection.query('SELECT * FROM ?? WHERE name = ?', [tableName, name]))[0];
@@ -36,5 +55,3 @@ async function checkAndUpdateMeta(connection, name) {
   const row = (await connection.query('INSERT INTO ?? SET ?', [tableName, { name: name, slug: name, type: 'tag', count: 1 }]))[0];
   return { ...row, mid: row.insertId };
 }
-
-module.exports = { createConnection, insert, checkAndUpdateMeta };

@@ -1,4 +1,4 @@
-const words = [
+export const words = [
   '人工智能',
   '机器学习',
   '大数据',
@@ -673,7 +673,3 @@ const words = [
   'Web框架',
   '数据库操作'
 ];
-
-module.exports = {
-  words
-};

@@ -1,5 +1,5 @@
-const axios = require('axios');
-const { BASE_URL } = require('./constants')
+import axios from 'axios'
+import { BASE_URL } from './constants'
 
 const instance = axios.create({
   baseURL: BASE_URL,
@@ -26,4 +26,4 @@ instance.interceptors.response.use(
   }
 );
 
-module.exports = instance;
+export default instance
