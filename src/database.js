@@ -6,26 +6,23 @@ const argv = parseArgs(process.argv.slice(2))
 const project = argv.project
 
 const dbDatabases = {
-  en: process.env.GENDATA_DB_NAME_EN,
-  default: process.env.GENDATA_DB_NAME
+  xiezi: process.env.GENDATA_DB_NAME
 }
 
 const dbUsers = {
-  en: process.env.GENDATA_DB_USER_EN,
-  default: process.env.GENDATA_DB_USER
+  xiezi: process.env.GENDATA_DB_USER
 }
 
 const dbPasswords = {
-  en: process.env.GENDATA_DB_PASSWORD_EN,
-  default: process.env.GENDATA_DB_PASSWORD
+  xiezi: process.env.GENDATA_DB_PASSWORD
 }
 
 export function createConnection() {
   return mysql.createConnection({
     host: process.env.GENDATA_DB_HOST,
-    user: dbUsers[project] || dbUsers['default'],
-    database: dbDatabases[project] || dbDatabases['default'],
-    password: dbPasswords[project] || dbPasswords['default'],
+    user: dbUsers[project] || dbUsers['xiezi'],
+    database: dbDatabases[project] || dbDatabases['xiezi'],
+    password: dbPasswords[project] || dbPasswords['xiezi'],
   });
 }
 
@@ -36,7 +33,7 @@ export async function insert(connection, tableName, data) {
 
 // 检查并更新 meta 表
 export async function checkAndUpdateMeta(connection, name) {
-  const tableName = '10w_metas';
+  const tableName = 'typecho_metas';
 
   const results = (await connection.query('SELECT * FROM ?? WHERE name = ?', [tableName, name]))[0];
 

@@ -31,6 +31,7 @@ async function main() {
     const _content = transformContent(content)
     await fs.writeFile(filepath, _content)
   }
+  return
 
   const connection = await createConnection();
 
@@ -50,16 +51,16 @@ async function main() {
     };
 
     // 插入文章
-    const { insertId: cid } = await insert(connection, '10w_contents', data);
+    const { insertId: cid } = await insert(connection, 'typecho_contents', data);
 
     // 创建或者更新 meta 表
     const { mid } = await checkAndUpdateMeta(connection, keyword);
 
     // 和关键词关联
-    await insert(connection, '10w_relationships', { cid, mid });
+    await insert(connection, 'typecho_relationships', { cid, mid });
 
     // 和默认分类关联
-    await insert(connection, '10w_relationships', { cid, mid: 1 });
+    await insert(connection, 'typecho_relationships', { cid, mid: 1 });
 
     console.log('文章生成成功：', title)
   } catch (error) {

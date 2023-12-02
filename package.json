@@ -5,8 +5,7 @@
   "main": "main.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js --lang zh",
-    "start:us": "node index.js --lang en --project en",
+    "start": "node index.js --lang zh --project xiezi",
     "dev": "rollup --watch --config=rollup.config.js --watch.onEnd=\"pnpm start\"",
     "build": "rollup --config=rollup.config.js --configPlugin=rollup-plugin-esbuild"
   },

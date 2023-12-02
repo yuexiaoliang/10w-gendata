@@ -9,7 +9,7 @@ export const MAX_RELATED_KEYWORDS = 10;
 export const TITLE_LENGTH = 50
 
 // AI 生成文章的最小长度
-export const CONTENT_MIN_LENGTH = 5000
+export const CONTENT_MIN_LENGTH = 1000
 
 // 语言列表
 export const LANG_ENUM = {
