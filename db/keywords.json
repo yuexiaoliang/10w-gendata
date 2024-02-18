@@ -1,146 +1,2212 @@
 {
-  "人工智能": {},
-  "机器学习": {
+  "人工智能": {
+    "en": [
+      "AI Brain",
+      "Cognitive Computing",
+      "Intelligence Amplification",
+      "Augmented Intelligence",
+      "IntelliGen",
+      "IntelliMesh",
+      "CognoBot",
+      "IntelliSage",
+      "NeuroAI",
+      "NeuroSense"
+    ],
     "zh": [
-      "深度学习"
+      "机器文明",
+      "智能助手",
+      "AI大脑",
+      "智慧城市",
+      "智慧智能",
+      "智能指挥",
+      "智能语音助理",
+      "全媒体智能",
+      "脑波控制",
+      "联想智能"
     ]
   },
-  "大数据": {},
-  "云计算": {},
-  "物联网": {},
+  "机器学习": {
+    "zh": [
+      "深度学习",
+      "智能优化",
+      "增强学习",
+      "知识迁移",
+      "特征选择",
+      "神经网络优化",
+      "模型压缩",
+      "泛化能力",
+      "数据挖掘",
+      "元学习"
+    ],
+    "en": [
+      "Automatic feature engineering",
+      "Automated model selection",
+      "Algorithmic optimization",
+      "Meta-learning",
+      "Neural network cascading",
+      "Automated anomaly detection",
+      "Machine Intelligence",
+      "Ensemble learning",
+      "Deep transfer learning",
+      "Transferable knowledge"
+    ]
+  },
+  "大数据": {
+    "en": [
+      "\"Data-driven\"",
+      "Datalytics",
+      "DataSphere",
+      "DataFusion",
+      "DataIntellibig",
+      "DataSense",
+      "DataQuest",
+      "DataInsight",
+      "DataFlow",
+      "DataConnect"
+    ],
+    "zh": [
+      "数据汇潮",
+      "数智化",
+      "数据剖析",
+      "数码金融",
+      "大规模数据挖掘",
+      "数据迁徙",
+      "数据洞察",
+      "数据积淀",
+      "数据融合",
+      "探知智慧"
+    ]
+  },
+  "云计算": {
+    "en": [
+      "Cloudscape",
+      "Cloudexplore",
+      "Cloudverse",
+      "CloudQuanta",
+      "CloudMatrix",
+      "Cloudlink",
+      "Cloudware",
+      "CloudMorph",
+      "CloudSphere",
+      "CloudConnect"
+    ],
+    "zh": [
+      "云创智能",
+      "云上服务",
+      "云端融合",
+      "虚拟云村",
+      "云上共享",
+      "深度云算",
+      "云天才",
+      "云谷",
+      "云端掌控",
+      "云彩计算"
+    ]
+  },
+  "物联网": {
+    "en": [
+      "IoTopia",
+      "IntelliConnect",
+      "IoSwift",
+      "IoScan",
+      "IoSense",
+      "IoNetify",
+      "IoThing",
+      "IoMesh",
+      "IoConnectivity",
+      "IoLink"
+    ],
+    "zh": [
+      "智能城市",
+      "智慧互联",
+      "智能物联",
+      "万物互联",
+      "物物互通",
+      "互联万物",
+      "物联时代",
+      "跨界互联",
+      "互联物智",
+      "物链"
+    ]
+  },
   "区块链": {
     "en": [
-      "Blockchain Revolution"
+      "Blockchain Revolution",
+      "ChainTech",
+      "BlockLink",
+      "BlockNet",
+      "BlockSage",
+      "Chainverse",
+      "SmartChain",
+      "BlockMesh",
+      "BlockWave",
+      "BlockSphere"
+    ],
+    "zh": [
+      "链拓展",
+      "区块探测",
+      "链上信誉",
+      "区块链接",
+      "区块追溯",
+      "区块沙场",
+      "区块治理",
+      "区块链自治",
+      "区块调度",
+      "自治链"
     ]
   },
   "虚拟现实": {
     "zh": [
       "沉浸体验",
-      "虚拟交融"
+      "虚拟交融",
+      "虚拟融合",
+      "云幻境",
+      "虚拟超融",
+      "幻景",
+      "维拓空间",
+      "幻空界",
+      "超现实",
+      "幻境游"
+    ],
+    "en": [
+      "Virtual immersion",
+      "Virtual experience",
+      "Virtuosity",
+      "ImmerX",
+      "V-Realm",
+      "Virtuverse",
+      "Virtixity",
+      "CyberX",
+      "VRvolution",
+      "VRvolutionX"
     ]
   },
-  "增强现实": {},
-  "生物技术": {},
-  "数据分析": {},
-  "无线通信": {},
-  "自动化": {},
-  "自动化控制": {},
-  "无人驾驶": {},
-  "可穿戴设备": {},
-  "智能设备": {},
-  "智慧城市": {},
-  "智能家居": {},
-  "智能工厂": {},
-  "智能交通": {},
-  "智能物流": {},
-  "智能农业": {},
-  "智慧医疗": {},
-  "智能制造": {},
-  "工业4.0": {},
-  "供应链管理": {},
-  "电子竞技": {},
-  "网络游戏": {},
-  "游戏开发": {},
-  "游戏设计": {},
+  "增强现实": {
+    "en": [
+      "ARFit",
+      "ARvolution",
+      "ARPlus",
+      "ARSmart",
+      "AREnhance",
+      "ARBlend",
+      "ARware",
+      "ARAdvance",
+      "ARBoost",
+      "ARvision"
+    ],
+    "zh": [
+      "虚拟现实",
+      "现实融合",
+      "AR智慧透明化",
+      "增强感知",
+      "扩增视觉",
+      "透明增强",
+      "增强实境",
+      "增感现实",
+      "增强实体感知",
+      "实现方式"
+    ]
+  },
+  "生物技术": {
+    "zh": [
+      "生物制造",
+      "生物创新",
+      "生物进化",
+      "生物复制",
+      "基于给定要求，生成的关键词是：“生物应用”",
+      "生物改造",
+      "生物工程",
+      "生物科技",
+      "生物应用领域",
+      "生物利用"
+    ],
+    "en": [
+      "Biogenomics",
+      "BioEvoTech",
+      "BioTechEvolve",
+      "BioTechAdvance",
+      "BiomaTech",
+      "BioSciTech",
+      "BioTechInnov",
+      "BioGenoTech",
+      "BioTechGenomics",
+      "BioTechRevolution"
+    ]
+  },
+  "数据分析": {
+    "zh": [
+      "数据洞察",
+      "数据解读",
+      "数字智控",
+      "数据剖析",
+      "数据智能化",
+      "迁移学习",
+      "数据梳理",
+      "数据解析",
+      "数据研判",
+      "数据探索"
+    ],
+    "en": [
+      "DataQuanta",
+      "DataInsight",
+      "DataSphere",
+      "DataSpectrum",
+      "DataMine",
+      "DataPulse",
+      "DataGraph",
+      "Analyzio",
+      "DataMatrix",
+      "DataProbe"
+    ]
+  },
+  "无线通信": {
+    "zh": [
+      "无间通信",
+      "无线联通",
+      "无线通讯络",
+      "通达",
+      "无线融合",
+      "无线连通",
+      "无线互联",
+      "静电通信",
+      "无线连接",
+      "巡移通信"
+    ],
+    "en": [
+      "WirelessNet",
+      "WirelessHub",
+      "WirelessWave",
+      "WirelessLink",
+      "WirelessStream",
+      "WirelessConnect",
+      "WirelessSphere",
+      "WirelessMesh",
+      "WirelessWaveform",
+      "WirelessSync"
+    ]
+  },
+  "自动化": {
+    "en": [
+      "autoassist",
+      "automatefication",
+      "automationize",
+      "autoaccelerate",
+      "autoexpand",
+      "autonomation",
+      "autoevolve",
+      "autonomationize",
+      "automagize",
+      "autopositive"
+    ],
+    "zh": [
+      "自主智能化",
+      "自动化协同",
+      "智能自动化",
+      "智慧自动化",
+      "智能化工厂",
+      "智能自动控制",
+      "智能化制造",
+      "智能自动监控",
+      "自动化领域的全新关键词：智能自动规划",
+      "自动化优化"
+    ]
+  },
+  "自动化控制": {
+    "en": [
+      "autocontrol",
+      "AutomateCntrl",
+      "AutomateGuard",
+      "AutomaLink",
+      "AutoStream",
+      "AutoTech",
+      "AutoPilot",
+      "AutoSync",
+      "AutomatizeControl",
+      "AutoSense"
+    ],
+    "zh": [
+      "控制自主化",
+      "智能化控制",
+      "自动协同",
+      "控制系统优化",
+      "智慧控制",
+      "自动化调度",
+      "自动化优化",
+      "协同化控制",
+      "优化控制",
+      "自动化集束控制"
+    ]
+  },
+  "无人驾驶": {
+    "zh": [
+      "智能驾驶",
+      "智能导航",
+      "自主驾驶",
+      "无人驾控",
+      "自动驾驶",
+      "自动行驶",
+      "智能交通",
+      "自动遥控",
+      "智能车联",
+      "智能车队"
+    ],
+    "en": [
+      "AutonomyDriving",
+      "SelfDriveAI",
+      "AutoPilot",
+      "AutoNavigate",
+      "DriveGuard",
+      "DriverlessJourney",
+      "DriveAssist",
+      "AutoNavigateAI",
+      "AutoNavigateGuard",
+      "AutoGuidance"
+    ]
+  },
+  "可穿戴设备": {
+    "zh": [
+      "智能时饰",
+      "时尚腕链",
+      "时尚智能腕表",
+      "智慧戒",
+      "时尚智能眼镜",
+      "智能拟态手环",
+      "时尚智能耳环",
+      "智能可穿装备",
+      "智能体感手套",
+      "时尚智能项圈"
+    ],
+    "en": [
+      "WearLink",
+      "WearConnect",
+      "WearTech",
+      "WearableX",
+      "WearSense",
+      "WearableSense",
+      "WearPro",
+      "WearCompass",
+      "WearableHub",
+      "WearSync"
+    ]
+  },
+  "智能设备": {
+    "en": [
+      "Smartlink",
+      "IntelliLink",
+      "eBrains",
+      "IntelliConnect",
+      "WisTec",
+      "IntelliSense",
+      "SmartHub",
+      "SmartTech",
+      "SmarterConnect",
+      "IntelliTech"
+    ],
+    "zh": [
+      "智能互联",
+      "机智统御",
+      "优维能",
+      "智能入侵",
+      "智能融合",
+      "智能驭数",
+      "极智创联",
+      "数智联通",
+      "智能呼唤",
+      "智能纵横"
+    ]
+  },
+  "智慧城市": {
+    "zh": [
+      "智慧互联",
+      "城市运营",
+      "城市数字化",
+      "云城市",
+      "城市智能化",
+      "智慧生活",
+      "智慧创新",
+      "智慧环境",
+      "智能城市",
+      "智慧智慧行"
+    ],
+    "en": [
+      "SmartScape",
+      "WiseCity",
+      "SmartNetCity",
+      "SmartConnectCity",
+      "CitySense",
+      "CitizenHub",
+      "IntelliMetropolis",
+      "CityWisdom",
+      "UrbanMind",
+      "UrbanIQ"
+    ]
+  },
+  "智能家居": {
+    "zh": [
+      "智能居室",
+      "智享生活",
+      "智能管家",
+      "智能之家",
+      "智能环境",
+      "智能家园",
+      "智能云家",
+      "智能家庭",
+      "智能生态",
+      "智能宅院"
+    ],
+    "en": [
+      "SmartHomeLink",
+      "IntelliHomeHub",
+      "SmartLiving",
+      "HomeSage",
+      "HomeSense",
+      "SmartHomeConnect",
+      "IntelliHomeNet",
+      "HomeTechMind",
+      "HomeGenius",
+      "HomeMind"
+    ]
+  },
+  "智能工厂": {
+    "en": [
+      "smart manufacturing",
+      "IntelliFactory",
+      "SmartWorks",
+      "EvoFactory",
+      "FactoTech",
+      "SmartTech",
+      "iFactory",
+      "SmartFab",
+      "IntelliPlant",
+      "IntelliPlantX"
+    ],
+    "zh": [
+      "智能生产线",
+      "智能制造",
+      "智能生产模式",
+      "智能化生产方案",
+      "智能生产网络",
+      "智能生产任务",
+      "智能生产设备",
+      "智能生产系统",
+      "智能生产优化",
+      "智能生产调度"
+    ]
+  },
+  "智能交通": {
+    "en": [
+      "IntelliMotion",
+      "SmartWay",
+      "IntelliSense",
+      "SmartDrive",
+      "iNavTraffic",
+      "iFlow",
+      "IntelliRoute",
+      "iTrack",
+      "RoadSense",
+      "TransMob"
+    ],
+    "zh": [
+      "智能出行",
+      "智道",
+      "智能导流",
+      "智能路权",
+      "智能通行",
+      "智能信号",
+      "智能通勤",
+      "智能导航",
+      "智能路况",
+      "智能车辆与城市"
+    ]
+  },
+  "智能物流": {
+    "zh": [
+      "智慧供应链",
+      "智能货运",
+      "智能配送",
+      "智能运输",
+      "智能仓储",
+      "智能物流网络",
+      "智能调度",
+      "智能集散",
+      "智慧运筹",
+      "智能物流优化"
+    ],
+    "en": [
+      "SmartLogistics",
+      "IntelliShip",
+      "SmartTrax",
+      "SmartFlow",
+      "IntelliMove",
+      "LogiMind",
+      "LogiSense",
+      "IntelliRoute",
+      "SmartTransit",
+      "IntelliShift"
+    ]
+  },
+  "智能农业": {
+    "en": [
+      "AgriTech",
+      "FarmSense",
+      "SmartFarm",
+      "AgroIntel",
+      "SmartAgri",
+      "AgroLink",
+      "FarmOptimize",
+      "AgroSense",
+      "AgroConnect",
+      "AgriBot"
+    ],
+    "zh": [
+      "智慧农田",
+      "智能农机",
+      "智慧农业",
+      "智慧农场",
+      "智能农工",
+      "绿色智农",
+      "农业科技",
+      "农业智能化",
+      "农业智造",
+      "智慧农业云"
+    ]
+  },
+  "智慧医疗": {
+    "en": [
+      "SmartHealth",
+      "WiseCare",
+      "IntelligentMedicare",
+      "MedicalIntelligence",
+      "HealthTechInnovate",
+      "MediSense",
+      "HealthIntelligence",
+      "HealthTechEdge",
+      "MediConnect",
+      "MediInnovate"
+    ],
+    "zh": [
+      "智能健康管理",
+      "智能医疗",
+      "医疗大数据",
+      "智能病案管理",
+      "拓展医疗智能",
+      "医疗智能化",
+      "智慧诊疗",
+      "医疗智能助理",
+      "智能医药",
+      "智慧远程医疗"
+    ]
+  },
+  "智能制造": {
+    "en": [
+      "smart manufacturing",
+      "Intelligent production",
+      "Smart fabrication",
+      "IntelliForge",
+      "Cognitive manufacturing",
+      "CogniMach",
+      "Cognitive fabrication",
+      "Cognitive automation",
+      "CogniTech",
+      "IntelliMake"
+    ],
+    "zh": [
+      "智能化工",
+      "智慧制造",
+      "智能生产",
+      "智能工厂",
+      "智能化制造",
+      "智能制造革命",
+      "柔性生产",
+      "数字化智能制造",
+      "智能制造创新",
+      "智能制造优化"
+    ]
+  },
+  "工业4.0": {
+    "zh": [
+      "智能工厂",
+      "智能制造",
+      "智能化生产",
+      "工业互联网",
+      "灵活制造",
+      "智能生产线",
+      "工业智慧化",
+      "智能制程",
+      "数字化生产",
+      "智能工业系统"
+    ],
+    "en": [
+      "SmartFactory",
+      "Industry4.0",
+      "IntelligentManufacturing",
+      "Data-driven manufacturing",
+      "Internet of Things",
+      "AutomationEvolution",
+      "SmartProduction",
+      "Digitalization",
+      "Industrial Revolution 4.0",
+      "SmartAutomation"
+    ]
+  },
+  "供应链管理": {
+    "en": [
+      "SupplyFlow",
+      "ChainProvision",
+      "LinkageMaximize",
+      "FlowSync",
+      "SupplyLink",
+      "ChainConnect",
+      "SupplyPath",
+      "SupplyNet",
+      "SupplyStream",
+      "SuppliMesh"
+    ],
+    "zh": [
+      "供应链优化",
+      "协同供应链",
+      "供应链智能化",
+      "环保供应链",
+      "供应链集成",
+      "供应链可视化",
+      "供应链协同创新",
+      "供应链数字化",
+      "供应链效益评估",
+      "供应链协同效能"
+    ]
+  },
+  "电子竞技": {
+    "en": [
+      "eSports Prodigy",
+      "eSports Genius",
+      "SuperGameStar",
+      "GameMaster",
+      "eSports Elite",
+      "eGamingStar",
+      "eGamingChampion",
+      "eSportRise",
+      "eGameLegend",
+      "eSportsMaestro"
+    ],
+    "zh": [
+      "电竞红利",
+      "电竞巅峰",
+      "电子竞技新锐",
+      "竞技电子",
+      "电子竞技新星",
+      "年轻战场",
+      "决战封神",
+      "无限宏见",
+      "电子竞技革新",
+      "电子竞技革命"
+    ]
+  },
+  "网络游戏": {
+    "en": [
+      "E-gaming",
+      "CyberImmerse",
+      "VirtualQuest",
+      "Gameverse",
+      "GameNexus",
+      "NetConvergence",
+      "Interplay",
+      "NetGenesis",
+      "NetRealm",
+      "Interconnectify"
+    ],
+    "zh": [
+      "虚拟大陆",
+      "网游梦",
+      "游戏云端",
+      "虚拟王国",
+      "超凡游戏",
+      "游戏沉浸",
+      "网游追梦",
+      "游戏之巅",
+      "浩瀚宇宙",
+      "网络云架"
+    ]
+  },
+  "游戏开发": {
+    "zh": [
+      "创新开发",
+      "游戏设计",
+      "游戏编程",
+      "创意开拓",
+      "虚拟现实",
+      "游戏制作",
+      "游戏策划",
+      "互动娱乐",
+      "游戏营销",
+      "游戏引擎"
+    ],
+    "en": [
+      "GameCrafting",
+      "GameForge",
+      "DevPlay",
+      "CodeUnity",
+      "GameGenius",
+      "GamePhenom",
+      "GameVerse",
+      "DevCreator",
+      "CodeCraft",
+      "GameInventor"
+    ]
+  },
+  "游戏设计": {
+    "zh": [
+      "互动演化",
+      "游戏创新",
+      "创意游戏",
+      "沉浸式游戏",
+      "游戏体验革命",
+      "游戏交互设计",
+      "挑战模式",
+      "全息游戏",
+      "可交互游戏",
+      "创意互动游戏"
+    ],
+    "en": [
+      "Gamecraft",
+      "GameShifter",
+      "GameSphere",
+      "GameBuilder",
+      "GameInnovator",
+      "GameEvo",
+      "GameGenius",
+      "GameVision",
+      "GameProx",
+      "GameMaster"
+    ]
+  },
   "音乐": {
     "zh": [
       "节奏精灵",
-      "音律大师"
+      "音律大师",
+      "嗨，根据您的要求生成一个关键词：音乐探索",
+      "音乐共鸣",
+      "音域拓展",
+      "音悦乐游",
+      "音乐盛典",
+      "音乐心灵",
+      "音乐艺术",
+      "音乐探索者"
+    ],
+    "en": [
+      "Musibond",
+      "MelodiCast",
+      "HarmonyMix",
+      "Melopulse",
+      "Musitune",
+      "Musisync",
+      "Sonophonic",
+      "AudioVibe",
+      "Tunetric",
+      "SoundWave"
     ]
   },
   "电影": {
     "zh": [
-      "电影赏析"
+      "电影赏析",
+      "电影主题曲",
+      "电影导演",
+      "热映电影",
+      "快乐观影",
+      "影视剧",
+      "院线放映",
+      "大银幕",
+      "影迷心声",
+      "导演选角"
+    ],
+    "en": [
+      "cinematic",
+      "movielize",
+      "moviemorph",
+      "filmish",
+      "filmbuzz",
+      "filmorama",
+      "filmentic",
+      "filmbliss",
+      "moviedazzle",
+      "moviewave"
     ]
   },
-  "文学作品": {},
-  "文学评论": {},
-  "摄影": {},
+  "文学作品": {
+    "zh": [
+      "文学作品：记梦典籍",
+      "作品荟萃",
+      "文思扬帆",
+      "珠玑佳作",
+      "创璇",
+      "文艺华章",
+      "文学妙境",
+      "逸思忆扉",
+      "文学灵感",
+      "创想络思"
+    ],
+    "en": [
+      "Muse",
+      "Litworld",
+      "Wordweave",
+      "Storyspace",
+      "Wordmark",
+      "Inklore",
+      "Narrprose",
+      "Taleverse",
+      "Wordcraft",
+      "BookScribe"
+    ]
+  },
+  "文学评论": {
+    "en": [
+      "Literary critique",
+      "Critique of literature",
+      "Literary analysis",
+      "Literary evaluation",
+      "Literary appraisal",
+      "Literary interpretation",
+      "Literator",
+      "LitCom",
+      "LitExplain",
+      "Literary discourse"
+    ],
+    "zh": [
+      "饮笔翰",
+      "文学批评",
+      "文艺观察",
+      "文学解读",
+      "文学观照",
+      "文学探寻",
+      "文学研讨",
+      "文学悦读",
+      "文学阐发",
+      "文学赏析"
+    ]
+  },
+  "摄影": {
+    "en": [
+      "Shutterbug",
+      "PhotoFinder",
+      "FotoSphere",
+      "Photographix",
+      "Photolens",
+      "Pixellens",
+      "Snapshots",
+      "Photoclick",
+      "Photogenix",
+      "FlashFusion"
+    ],
+    "zh": [
+      "镜影",
+      "摄影装备",
+      "镜头绽放",
+      "影境",
+      "闪焰",
+      "镜芒",
+      "光影",
+      "摄影画面",
+      "影蔓",
+      "拍客"
+    ]
+  },
   "旅行": {
     "en": [
-      "adventure"
+      "adventure",
+      "Wanderlust",
+      "Roam",
+      "Voyage",
+      "GlobeTrek",
+      "Wanderlustful",
+      "Journey",
+      "SoEpic",
+      "Wanderbound",
+      "Expedition"
+    ],
+    "zh": [
+      "旅程",
+      "自由跃行",
+      "行宫",
+      "行迹",
+      "逍遥行",
+      "行靶",
+      "漫行",
+      "行者",
+      "越游",
+      "风行"
     ]
   },
   "美食": {
     "zh": [
-      "美味特辑"
+      "美味特辑",
+      "餐桌奇趣",
+      "食享",
+      "美味探险",
+      "食之道",
+      "食探",
+      "食尚记",
+      "食趣达人",
+      "美味视界",
+      "美味乐园"
+    ],
+    "en": [
+      "foodventure",
+      "茶食",
+      "Gastronome",
+      "Epicure",
+      "Foodie",
+      "Tastequest",
+      "Gourmet Odyssey",
+      "Eatalicious",
+      "DeliciousVoyage",
+      "GustoQuest"
     ]
   },
-  "烹饪": {},
-  "心理健康": {},
+  "烹饪": {
+    "en": [
+      "Gastronomusic",
+      "Culinaryfusion",
+      "Culinovation",
+      "Culinexus",
+      "Culinarychemy",
+      "Cookartify",
+      "Culinamerge",
+      "Cookistry",
+      "Cookmatics",
+      "Cookovation"
+    ],
+    "zh": [
+      "炖煮",
+      "小火焖",
+      "炒烩",
+      "食材创意",
+      "闪耀烹饪",
+      "创新烹调",
+      "创意料理",
+      "烹调艺术",
+      "顶级烹饪",
+      "食物变色术"
+    ]
+  },
+  "心理健康": {
+    "en": [
+      "Mental well-being",
+      "PsycheFit",
+      "PsychBalance",
+      "MindBalance",
+      "PsychoLight",
+      "PsycheWell",
+      "PsycheBoost",
+      "MindSync",
+      "PsychEquilibrium",
+      "PsycheVital"
+    ],
+    "zh": [
+      "心理韧性",
+      "心理自愈",
+      "心理平衡",
+      "心理护理",
+      "心理舒适",
+      "心理和谐",
+      "心理自助",
+      "情感解压",
+      "情绪调理",
+      "心理安泰"
+    ]
+  },
   "营养饮食": {
     "zh": [
-      "鲜食堂"
+      "鲜食堂",
+      "饮食均衡",
+      "营养之道",
+      "营养早餐",
+      "营养饮食",
+      "健康美食",
+      "营养美味",
+      "营养补剂",
+      "营养平衡",
+      "智能营养"
+    ],
+    "en": [
+      "NutriFit",
+      "NourishMe",
+      "NutriWellness",
+      "NutriBoost",
+      "NuTritionFuel",
+      "NutriVital",
+      "NutriBalance",
+      "Nourislim",
+      "NutriFuelMax",
+      "NutriLife"
     ]
   },
-  "健身器材": {},
-  "健康监测": {},
-  "医疗技术": {},
-  "远程医疗": {},
-  "癌症治疗": {},
-  "心血管健康": {},
-  "美容护肤品": {},
-  "彩妆产品": {},
-  "护肤化妆品": {},
-  "奢侈品": {},
-  "高端消费": {},
-  "小说家": {},
-  "诗人": {},
-  "文学奖": {},
-  "文学批评": {},
+  "健身器材": {
+    "en": [
+      "FitCore",
+      "FitGear",
+      "FlexPro",
+      "GymTech",
+      "FitSport",
+      "FitMotion",
+      "FitMax",
+      "FitActive",
+      "FitLife",
+      "FitFlex"
+    ],
+    "zh": [
+      "青春魔方",
+      "强身之旅",
+      "力动宝",
+      "钢肌拳击",
+      "锐力星",
+      "铁血强者",
+      "晋级通达",
+      "身体雕塑",
+      "极速塑形",
+      "锐力之道"
+    ]
+  },
+  "健康监测": {
+    "zh": [
+      "智能健康追踪",
+      "健康监护",
+      "健康实时监测",
+      "健康数据分析",
+      "医疗数据监控",
+      "健康状况检测",
+      "健康状态跟踪",
+      "精准健康监控",
+      "健康巡检",
+      "健康追溯"
+    ],
+    "en": [
+      "HealthTrack",
+      "HealthSense",
+      "VitalSense",
+      "HealthScan",
+      "WellnessWatch",
+      "VitaCheck",
+      "HealthWatch",
+      "HealthPulse",
+      "HealthCheck",
+      "VitalCheck"
+    ]
+  },
+  "医疗技术": {
+    "en": [
+      "MediScan",
+      "MediTech",
+      "MediCareTech",
+      "MediInnov",
+      "MediTechPro",
+      "MediTechPlus",
+      "MediGenTech",
+      "MediLinkTech",
+      "MediCoreTech",
+      "MediSolvTech"
+    ],
+    "zh": [
+      "医疗信息化",
+      "无创检测",
+      "智能医疗",
+      "诊疗智能化",
+      "云医疗",
+      "绿色医疗",
+      "医疗科技",
+      "医学影像技术",
+      "医疗机器人",
+      "海绵吸附技术"
+    ]
+  },
+  "远程医疗": {
+    "en": [
+      "TelemedLink",
+      "Remotemedics",
+      "RemoteHealth",
+      "TeleCare",
+      "RemoteMedix",
+      "E-Healthcare",
+      "TeleHealthNet",
+      "HealthSense",
+      "MediConnect",
+      "E-HealthLink"
+    ],
+    "zh": [
+      "远程诊断",
+      "远程问诊",
+      "远程监护",
+      "远程治疗",
+      "远程健康管理",
+      "远程病友互助",
+      "医疗云平台",
+      "云端医草",
+      "虚拟健康助手",
+      "慢病远程教育"
+    ]
+  },
+  "癌症治疗": {
+    "zh": [
+      "抗癌革命",
+      "免疫调节",
+      "肿瘤靶向治疗",
+      "个性化化疗",
+      "癌症研究",
+      "癌症细胞毒化",
+      "治疗创新",
+      "靶向光热治疗",
+      "细胞克星",
+      "化疗副作用缓解"
+    ],
+    "en": [
+      "chemosensitivity",
+      "oncotherapy",
+      "immunotherapy",
+      "tumorablation",
+      "oncogenic",
+      "anticancer",
+      "oncoblockade",
+      "cancerremission",
+      "cancermetastasis",
+      "researchoptimize"
+    ]
+  },
+  "心血管健康": {
+    "en": [
+      "CardioFit",
+      "CardioCare",
+      "CardioWise",
+      "HeartKare",
+      "CardioVita",
+      "CardioPulse",
+      "VitaHeart",
+      "VitalBeat",
+      "HeartGuard",
+      "HeartVigor"
+    ],
+    "zh": [
+      "心血系列",
+      "心血管保健",
+      "心血通",
+      "血管畅通",
+      "血脉特赋",
+      "心血护",
+      "循心悦血",
+      "血管秘笈",
+      "循心守良",
+      "心动关爱"
+    ]
+  },
+  "美容护肤品": {
+    "en": [
+      "Glowfinity",
+      "Beauteopia",
+      "GlowRadiance",
+      "Revitaluxe",
+      "GlowElixir",
+      "RadiantGlow",
+      "SmoothRevive",
+      "GlowDerma",
+      "GlowEssence",
+      "Glamora"
+    ],
+    "zh": [
+      "肌肤之恋",
+      "恋肤启航",
+      "水润肌美",
+      "芳香肤美",
+      "肌肤亲密度",
+      "肌肤美缔",
+      "绽颜佳品",
+      "肌肤青柔",
+      "肌肤琳美",
+      "真肤美提"
+    ]
+  },
+  "彩妆产品": {
+    "zh": [
+      "丽彩",
+      "缤彩",
+      "魅丽",
+      "美丽妆容",
+      "彩香",
+      "霓彩",
+      "绚彩",
+      "彩色颜妆",
+      "彩云",
+      "绚色彩"
+    ],
+    "en": [
+      "MakeoverMaster",
+      "GlowEnhancer",
+      "VivaTint",
+      "LuxeBlend",
+      "ColorCouture",
+      "BeautyBlend",
+      "ColorVibrance",
+      "ColorSphere",
+      "ColorFusion",
+      "ColorShimmer"
+    ]
+  },
+  "护肤化妆品": {
+    "en": [
+      "Skincare regimen",
+      "GlowFit",
+      "FlawlessGlow",
+      "BeautyEssentials",
+      "RadianceBoost",
+      "YouthfulRevive",
+      "GlowRenew",
+      "SkinRenew",
+      "SkinRevive",
+      "RadiantGlow"
+    ],
+    "zh": [
+      "护肤彩妆",
+      "美肤堂",
+      "肌肤精灵",
+      "美妆佳品",
+      "养肤之道",
+      "纯素美肤",
+      "亮肌无痕",
+      "美妆新科",
+      "美颜秘籍",
+      "美容新潮"
+    ]
+  },
+  "奢侈品": {
+    "zh": [
+      "奢华享受",
+      "尊享",
+      "豪品",
+      "极致尊崇",
+      "奢逸",
+      "奢愈",
+      "至尊宠宝",
+      "瑰奢",
+      "品质雅选",
+      "骄奢"
+    ],
+    "en": [
+      "luxuryrevolution",
+      "extravagantElegance",
+      "opulantAffluence",
+      "exquisiteSplendor",
+      "extravagantLuxe",
+      "LuxuriantFinesse",
+      "LavishElegance",
+      "extravagantRefinement",
+      "LuxuriousChic",
+      "ExquisiteOpulence"
+    ]
+  },
+  "高端消费": {
+    "en": [
+      "Luxury Experience",
+      "Premium Experience",
+      "Exquisite Affluence",
+      "Elite Indulgence",
+      "Opulence Maven",
+      "Affluent Sophistication",
+      "Sophisticated Elegance",
+      "Upscale Chic",
+      "Affluence Renaissance",
+      "Elite Distinction"
+    ],
+    "zh": [
+      "高雅消费",
+      "精致生活",
+      "尊和",
+      "品尚生活",
+      "品锦生活",
+      "贵族消费",
+      "礼尚消费",
+      "时尚尊享",
+      "尊尚日常",
+      "贵族品质"
+    ]
+  },
+  "小说家": {
+    "en": [
+      "Wordsmith",
+      "Novelist",
+      "ProseScribe",
+      "Literati",
+      "Penman",
+      "Penword",
+      "Wordspinner",
+      "Wordshaper",
+      "Storycrafter",
+      "Storyweaver"
+    ],
+    "zh": [
+      "创作家",
+      "笔耕不辍",
+      "文坛能手",
+      "文思者",
+      "创作大师",
+      "笔舞者",
+      "文学艺术",
+      "故事塑造者",
+      "白纸诗人",
+      "小说宗师"
+    ]
+  },
+  "诗人": {
+    "en": [
+      "bard",
+      "whisperer",
+      "luminary",
+      "Versewright",
+      "Sonneteer",
+      "Rhapsodist",
+      "Versestar",
+      "Verseweaver",
+      "Versifier",
+      "Taleweaver"
+    ],
+    "zh": [
+      "豪情",
+      "诗魂",
+      "墨香",
+      "诗牧",
+      "文采",
+      "清吟",
+      "唐吟",
+      "墨墨",
+      "文翰",
+      "雅颂"
+    ]
+  },
+  "文学奖": {
+    "en": [
+      "LittAwards",
+      "LitStar",
+      "LuminusWords",
+      "LitProse",
+      "LitExcellence",
+      "PenLit",
+      "LitGems",
+      "LitMuse",
+      "LitEssence",
+      "LitVerse"
+    ],
+    "zh": [
+      "文学荣誉",
+      "文学巅峰",
+      "创作星",
+      "文学璀璨",
+      "文学光辉",
+      "文学之星",
+      "文学珍宝",
+      "文学辐射",
+      "文学华章",
+      "文学星尚"
+    ]
+  },
+  "文学批评": {
+    "zh": [
+      "回应：文学洞察力",
+      "文学解构",
+      "批评审美",
+      "折中主义",
+      "文本梳理",
+      "文学评释",
+      "文学评析",
+      "文化挖掘",
+      "文学评才",
+      "文化重构"
+    ],
+    "en": [
+      "Metaprose",
+      "LitCritica",
+      "LitInterpret",
+      "LiteraryReview",
+      "CritLitAnalysis",
+      "TextualAnalysis",
+      "CritLitEval",
+      "CritLitApproach",
+      "InterLitCrit",
+      "CritLitPerspective"
+    ]
+  },
   "摄影艺术": {
     "zh": [
-      "镜景"
+      "镜景",
+      "视觉抒情",
+      "创造力",
+      "影境",
+      "艺术光影",
+      "摄语",
+      "摄影语韵",
+      "影意",
+      "镜心",
+      "光影采撷"
+    ],
+    "en": [
+      "Lenscape",
+      "Photovivid",
+      "Photoculture",
+      "Photomuse",
+      "ClickSense",
+      "Shutterpeak",
+      "ArtfulCapture",
+      "CaptureSpectrum",
+      "Photogenic",
+      "Photointuit"
     ]
   },
-  "设计时尚": {},
-  "竞技体育": {},
-  "锻炼": {},
-  "训练": {},
-  "体育教育": {},
-  "体育锻炼": {},
-  "金融科技": {},
-  "电子支付": {},
-  "投资": {},
-  "股票市场": {},
-  "保险": {},
-  "财务规划": {},
-  "房地产": {},
+  "设计时尚": {
+    "zh": [
+      "时尚设计",
+      "独领时尚",
+      "潮流设计",
+      "创新设计",
+      "个性潮设计",
+      "非凡时尚设计",
+      "设计创意",
+      "时尚之旅",
+      "流行设计",
+      "新锐设计"
+    ],
+    "en": [
+      "FashionTech",
+      "DesignVogue",
+      "FashionRevamp",
+      "StylishDesign",
+      "FashionCreation",
+      "FashionForward",
+      "DesignInnovation",
+      "FashionDesign",
+      "FashionTrendsetter",
+      "FashionStatement"
+    ]
+  },
+  "竞技体育": {
+    "en": [
+      "sportsmanship",
+      "E-sports",
+      "Competition",
+      "AthleteCarnival",
+      "Intersport",
+      "SportNation",
+      "SportRivalry",
+      "SportChallenge",
+      "SportQuest",
+      "SportProvoke"
+    ],
+    "zh": [
+      "体育争霸",
+      "激烈角逐",
+      "超越极限",
+      "竞技化体验",
+      "超凡竞技",
+      "韧性拼搏",
+      "智能竞技",
+      "巅峰挑战",
+      "巅峰对决",
+      "智能冠军"
+    ]
+  },
+  "锻炼": {
+    "zh": [
+      "健跑",
+      "拓展训练",
+      "内外双修",
+      "扛式训练",
+      "思锻",
+      "锻炼身心  ",
+      "超锻练",
+      "锻炼素养",
+      "锻炼哲学",
+      "阳动"
+    ],
+    "en": [
+      "Exercise",
+      "workup",
+      "Sweatscape",
+      "Endure",
+      "Fitflex",
+      "Sweatup",
+      "Sweatflow",
+      "TrainFit",
+      "Sweatcore",
+      "Sweatfusion"
+    ]
+  },
+  "训练": {
+    "zh": [
+      "训练技术",
+      "训练方法",
+      "启智",
+      "技能",
+      "体能",
+      "训练专家",
+      "训练模式",
+      "协同训练",
+      "革新",
+      "训练评估"
+    ],
+    "en": [
+      "trainable",
+      "skillset",
+      "trainology",
+      "trainables",
+      "trainlink",
+      "trainplex",
+      "trainbright",
+      "trainvelop",
+      "trainpath",
+      "trainex"
+    ]
+  },
+  "体育教育": {
+    "zh": [
+      "体育智慧",
+      "体育启发",
+      "竞技健身",
+      "赛事导向",
+      "运动互动",
+      "体育综合能力",
+      "体育素养",
+      "移动学习",
+      "运动凝聚",
+      "运动乐活"
+    ],
+    "en": [
+      "sportsmanship",
+      "Sportsmanship epitomizes the values of fair play and respect in athletics, promoting positive interactions and camaraderie among players. To create a new concept related to sports education in the English language, while avoiding repetition with \"sportsmanship,\" the suggested keyword is \"athletic ethics.\"",
+      "sporting integrity",
+      "athletic development",
+      "sports education",
+      "sports pedagogy",
+      "athletic character",
+      "sports education ethic",
+      "sports ethics",
+      "sporting values"
+    ]
+  },
+  "体育锻炼": {
+    "en": [
+      "fitcore",
+      "sportivity",
+      "GymFlex",
+      "Flexletics",
+      "FitLinx",
+      "Sportendurance",
+      "Sportpulse",
+      "\"Vitalmotion\"",
+      "EnduraFit",
+      "FitFlex"
+    ],
+    "zh": [
+      "增强运动维度",
+      "运动大使",
+      "运动益好",
+      "运动挑战",
+      "运动哲学",
+      "健康拓展",
+      "活力之道",
+      "健身领域",
+      "运动动力",
+      "运动驿站"
+    ]
+  },
+  "金融科技": {
+    "en": [
+      "Fintech",
+      "Finovate",
+      "FinX",
+      "Bankrolling",
+      "Tradicash",
+      "Digipay",
+      "Fintegrate",
+      "Financhain",
+      "Finovation",
+      "Finex+"
+    ],
+    "zh": [
+      "AI金融",
+      "金链科技",
+      "科技金融",
+      "数字金融",
+      "智能金融",
+      "智慧金融",
+      "智能支付",
+      "数融金科",
+      "金融科技革新",
+      "数字金汇"
+    ]
+  },
+  "电子支付": {
+    "en": [
+      "e-funds",
+      "E-Pocket",
+      "EPay",
+      "E-Exchange",
+      "EPayWave",
+      "E-Zap",
+      "EZPay",
+      "E-Transact",
+      "E-Merchant",
+      "e-Purse"
+    ],
+    "zh": [
+      "移动钱包",
+      "无卡支付",
+      "电子钱袋",
+      "电子购物车",
+      "数字付款",
+      "数字零钱\n",
+      "电子资产",
+      "云端付款",
+      "电子消费",
+      "电子支付安全"
+    ]
+  },
+  "投资": {
+    "en": [
+      "Investopedia",
+      "Investify",
+      "Investopedia, Investify\n\nInvestmentomics",
+      "Investicalypse",
+      "InvestIQ",
+      "Investisle",
+      "Investorum",
+      "Investaflux",
+      "Investure",
+      "Investizen"
+    ],
+    "zh": [
+      "融资",
+      "资本运作",
+      "创投",
+      "宽容投资",
+      "收益倍增",
+      "稳健收益",
+      "股权分红",
+      "终身投资",
+      "保值增长",
+      "增值投资"
+    ]
+  },
+  "股票市场": {
+    "zh": [
+      "盈搏",
+      "股驰",
+      "股价拐点",
+      "牛市翻牌",
+      "赢涨",
+      "投获",
+      "股票波动",
+      "行情角度",
+      "股市智能化",
+      "行情预测"
+    ],
+    "en": [
+      "Market Intelligence",
+      "StockScan",
+      "StockPulse",
+      "StockTrends",
+      "StockSense",
+      "StockTrack",
+      "StockVision",
+      "StockInsight",
+      "StockMomentum",
+      "StockTrendFinder"
+    ]
+  },
+  "保险": {
+    "en": [
+      "InsurTech",
+      "InsureMate",
+      "CoverageBridge",
+      "InsureSafeguard",
+      "InsureGuard",
+      "Sure! Here is a new keyword related to insurance: \"PolicyPro\".",
+      "InsureBoost",
+      "InsureConnect",
+      "InsureCare",
+      "InsureLink"
+    ],
+    "zh": [
+      "赔付宝",
+      "责任保障",
+      "保险金库",
+      "保险强身",
+      "理赔保通",
+      "防险通过",
+      "保险雾化",
+      "防险卫士",
+      "险中控",
+      "险上分析"
+    ]
+  },
+  "财务规划": {
+    "zh": [
+      "理财策划",
+      "财富蓝图",
+      "资金安排",
+      "财务设计",
+      "财富布局",
+      "财务管控",
+      "会计黄金法",
+      "财富筹划",
+      "个性财位",
+      "财务导航"
+    ],
+    "en": [
+      "Financial Blueprint",
+      "Wealth Navigator",
+      "Financial Roadmap",
+      "Finance Route",
+      "Finance Strategy",
+      "Financial Pathmapping",
+      "Wealth Route",
+      "FinPlan Pathway",
+      "Wealth Orbit",
+      "Finance Mapping"
+    ]
+  },
+  "房地产": {
+    "en": [
+      "PropertyXchange",
+      "RealtyLink",
+      "PropertyVerse",
+      "EstateConnect",
+      "Estavista",
+      "HomeSense",
+      "EstoSage",
+      "RealtyHub",
+      "HousingHub",
+      "RealSquare"
+    ],
+    "zh": [
+      "现代花园",
+      "创意楼+地产",
+      "新房融资",
+      "地产复兴",
+      "无限智能",
+      "地产创新",
+      "地产精英",
+      "「绿色住宅」",
+      "房产智享",
+      "智慧住宅"
+    ]
+  },
   "汽车行业": {
     "zh": [
-      "汽车智慧化"
+      "汽车智慧化",
+      "车与家",
+      "汽车共享",
+      "智能停车场",
+      "智能出行",
+      "智能驾驶辅助",
+      "智能车联网",
+      "新能源汽车",
+      "智能车辆数据分析",
+      "车辆自适应控制系统"
+    ],
+    "en": [
+      "Automobility",
+      "AutoConnect",
+      "AutoTronics",
+      "IntelliDrive",
+      "AutoLink",
+      "AutoXcel",
+      "CarSync",
+      "AutoShift",
+      "AutoSense",
+      "AutoMax"
     ]
   },
-  "教育技术": {},
-  "在线学习": {},
-  "远程教育": {},
+  "教育技术": {
+    "en": [
+      "Edutech",
+      "EduInnoTech",
+      "EduTechRevolution",
+      "EduDigitalTech",
+      "EduConnectTech",
+      "EduTechEvolv",
+      "EduLeapTech",
+      "SmartLearnTech",
+      "EduTechInnovate",
+      "EduTechAdvance"
+    ],
+    "zh": [
+      "智能学习",
+      "教育科技",
+      "技术教学",
+      "教育智能化",
+      "机教技",
+      "创新学习",
+      "智慧教学",
+      "虚拟现实",
+      "学科融合",
+      "教育智能化"
+    ]
+  },
+  "在线学习": {
+    "en": [
+      "E-learnMax",
+      "iStudyHub",
+      "StudyConnex",
+      "StudySync",
+      "VirtualLearn",
+      "LearnWave",
+      "StudyNet",
+      "LearnSmart",
+      "EduConnect",
+      "LearnChat"
+    ],
+    "zh": [
+      "智慧教育",
+      "智能化学习",
+      "智能在线学习",
+      "智能学当",
+      "智学网",
+      "在线学堂",
+      "在线学习平台",
+      "智享学习",
+      "智悟学习",
+      "智课在线"
+    ]
+  },
+  "远程教育": {
+    "en": [
+      "e-learning",
+      "Telelearn",
+      "RemotEd",
+      "RemoteLearn",
+      "VirtualEd",
+      "RemoteClass",
+      "TeleTeach",
+      "TeachAnywhere",
+      "RemEd",
+      "TeachLink"
+    ],
+    "zh": [
+      "远程学堂",
+      "在线学堂",
+      "远程学习",
+      "虚拟学堂",
+      "异地教育",
+      "远程学宏",
+      "智慧学院",
+      "数字学堂",
+      "云课亭",
+      "数字课域"
+    ]
+  },
   "编程教育": {
     "zh": [
-      "编程学习"
+      "编程学习",
+      "编程创造",
+      "编程启蒙",
+      "编程智趣",
+      "创新编程",
+      "开拓编程",
+      "编程思维培养",
+      "探索编程",
+      "探究编程",
+      "拓展编程"
+    ],
+    "en": [
+      "CodingCultivate",
+      "CodeUniverse",
+      "CodiTech",
+      "CodeLearn",
+      "CodeSparkle",
+      "CodeEnvision",
+      "CodeCraft",
+      "CodeBloom",
+      "CodeRise",
+      "CodeSage"
     ]
   },
   "人才发展": {
     "zh": [
-      "人工债券"
+      "人工债券",
+      "职业融合",
+      "人力资本",
+      "职业成长",
+      "人才晋阶链",
+      "职业培养",
+      "人才演进",
+      "人才蓬勃",
+      "人力发展",
+      "人才拓展"
+    ],
+    "en": [
+      "TalentNurture",
+      "TalentEvolution",
+      "TalentProgress",
+      "TalentAdvancement",
+      "TalentAscend",
+      "TalentGrowth",
+      "TalentEnrichment",
+      "TalentProsper",
+      "TalentUplift",
+      "TalentEnhancement"
     ]
   },
   "自然风光": {
     "zh": [
       "翠绿山水",
-      "恬美山河"
+      "恬美山河",
+      "蓝天白云",
+      "宜人大地",
+      "山川秀丽",
+      "清新山谷",
+      "风吟山谷",
+      "阳光草坪",
+      "悠然溪流",
+      "绮丽湖泊"
+    ],
+    "en": [
+      "Scenic Beauty",
+      "Natural Vista",
+      "SereneScape",
+      "NatuScape",
+      "Naturia",
+      "Naturamorphical",
+      "NatuZen",
+      "EcoScape",
+      "EcoVista",
+      "EcoLandscape"
     ]
   },
-  "文化遗产": {},
-  "城市旅游": {},
-  "奢华旅行": {},
-  "领导力": {},
-  "团队合作": {},
+  "文化遗产": {
+    "en": [
+      "heritage appreciation",
+      "cultural legacy",
+      "cultural preservation",
+      "Cultural heritage discovery",
+      "Cultural legacy exploration",
+      "Cultural heritage exploration",
+      "Cultural heritage exploration excursion",
+      "Heritage exploration",
+      "Cultural heritage expedition",
+      "\"Intangible cultural heritage discovery\""
+    ],
+    "zh": [
+      "传承",
+      "文化护航",
+      "古韵",
+      "文化瑰宝",
+      "文化探索",
+      "文化传承之光",
+      "文化传承之路",
+      "文化守护",
+      "文化根脉",
+      "文化遗产金钥匙"
+    ]
+  },
+  "城市旅游": {
+    "en": [
+      "cityscape",
+      "urbanroam",
+      "urbantrek",
+      "cityexplore",
+      "urbancrawl",
+      "\"citywander\"",
+      "cityventure",
+      "cityscape",
+      "cityquest",
+      "cityscape"
+    ],
+    "zh": [
+      "城市探索",
+      "城市漫步",
+      "城市畅游",
+      "城市游览",
+      "闲游",
+      "城市风光",
+      "“城市觅游”",
+      "城市漫逛",
+      "城市游触",
+      "城市漫享"
+    ]
+  },
+  "奢华旅行": {
+    "zh": [
+      "豪华游历",
+      "奢尚漫游",
+      "宏伟行程",
+      "奢享之旅",
+      "旅游尊享",
+      "尊崇之行",
+      "公主行馆",
+      "尊贵旅游",
+      "尊爵环游",
+      "寰宇奢游"
+    ],
+    "en": [
+      "Luxury excursion",
+      "Extravagant voyage",
+      "Opulent Journey",
+      "Glamorous odyssey",
+      "Prestigeadventure",
+      "Lavish excursion",
+      "Exquisite sojourn",
+      "Sumptuous expedition",
+      "Gilded expedition",
+      "Luxury odyssey"
+    ]
+  },
+  "领导力": {
+    "en": [
+      "Leadershift",
+      "Leadersphere",
+      "Leadermorphosis",
+      "LeadExcellence",
+      "Leadfluence",
+      "Leaderdrive",
+      "Leadvolution",
+      "Leadomastery",
+      "Leaderzen",
+      "Leadstride"
+    ],
+    "zh": [
+      "领导研习",
+      "领导力提能",
+      "团队驱动力",
+      "人道领导",
+      "潜能领导",
+      "人本领导",
+      "领导智慧",
+      "探索领导",
+      "组织演奏",
+      "人际连结"
+    ]
+  },
+  "团队合作": {
+    "en": [
+      "collaboration",
+      "Team Synergy",
+      "TeamUnity",
+      "TeamworkFuel",
+      "Team Cohesion",
+      "Team Harmony",
+      "CollabSync",
+      "TeamElevate",
+      "TeamCollab",
+      "TeamSynchrony"
+    ],
+    "zh": [
+      "羽化",
+      "拼命",
+      "集思广益",
+      "团结一心",
+      "协同",
+      "默契配合",
+      "协作奇招",
+      "协力",
+      "春风",
+      "齐心协力"
+    ]
+  },
   "沟通技巧": {
     "en": [
-      "Rapport"
+      "Rapport",
+      "Fluence",
+      "Interconnect",
+      "Communicare",
+      "Communicaire",
+      "Interactify",
+      "Connectivity",
+      "EffectiveDialogue",
+      "Communivation",
+      "CommuniNet"
+    ],
+    "zh": [
+      "沟通智慧",
+      "灵动沟通",
+      "沟通艺术",
+      "沟通协同",
+      "乐陶通",
+      "沟通妙思",
+      "沟通巧思",
+      "沟通瑰宝",
+      "沟通奇思",
+      "沟通默契"
     ]
   },
-  "时间管理": {},
-  "创造力": {},
-  "人际关系": {}
+  "时间管理": {
+    "en": [
+      "chronosophy",
+      "Tempograph",
+      "Chronohack",
+      "Temporify",
+      "Timeware",
+      "Timeris",
+      "Timetrix",
+      "Timetask",
+      "Timeflow",
+      "TempoSync"
+    ],
+    "zh": [
+      "时间盈余",
+      "时间塑造",
+      "时间舞台",
+      "时间印记",
+      "时间规划",
+      "时间流动",
+      "时间魔盒",
+      "时间智能",
+      "时间规则",
+      "时间驾驭"
+    ]
+  },
+  "创造力": {
+    "en": [
+      "Innovativeness",
+      "Creativity",
+      "Inventiveness",
+      "Ingenuity",
+      "Inspiration",
+      "Imagination",
+      "\"Originality\"",
+      "Innovative",
+      "Incriativity",
+      "InnovaCreation"
+    ],
+    "zh": [
+      "灵感",
+      "激发",
+      "创新",
+      "创意",
+      "跃动",
+      "创想",
+      "独创",
+      "发散",
+      "超越",
+      "创新思维"
+    ]
+  },
+  "人际关系": {
+    "en": [
+      "Interconnect",
+      "Interrelation",
+      "Relationalize",
+      "Relategrid",
+      "Relationshipnet",
+      "Relateverse",
+      "Relateconnect",
+      "Relatehub",
+      "Relatebond",
+      "Relate-link"
+    ],
+    "zh": [
+      "连心",
+      "“情网”",
+      "默识",
+      "人脉银行",
+      "共融",
+      "人际共生",
+      "互动密钥",
+      "沟通纽带",
+      "心理空间",
+      "群心"
+    ]
+  }
 }
